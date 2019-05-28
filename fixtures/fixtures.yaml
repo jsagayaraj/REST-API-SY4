@@ -1,0 +1,4 @@
+App\Entity\Article:
+    article_{1..5}:
+        name: <sentence()>
+        description: <text()>
